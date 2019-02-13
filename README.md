@@ -1,11 +1,11 @@
-#SAP Restructuring
+# SAP Restructuring
 
-##[Link to article](https://www.wsj.com/articles/german-software-giant-sap-to-slash-3-000-jobs-11548759931)
+## [Link to article](https://www.wsj.com/articles/german-software-giant-sap-to-slash-3-000-jobs-11548759931)
 
-##Background Information
+## Background Information
 SAP, based in Germany, has begun an internal restructuring. The software company is the third largest in the world, had a revenue of €24.7 billion in 2018. The company is well known for its enterprise software for businesses, but has many recent acquisitions, such as Qualtrics and SmartOps.
 
-##Opinion
+## Opinion
 This restructuring offers a lot of insight into what types of software the company believes will or do show the most possible growth in. The Chief Executive Officer, William McDermott, has stated
 >We are going to move our people, and our focus, to the areas where the new economy needs SAP the most.
 
