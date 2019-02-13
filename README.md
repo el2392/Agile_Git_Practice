@@ -17,3 +17,6 @@ Some of these areas are:
 * Quantum Computing
 
 Although the comapny is attempting to refocus its efforts, this means that 4,400 jobs may be affected. This also has another cost, almost 1 billion USD. With such a high cost and possible turn over, it will be interesting to see the results of this change for the company and its efforts on research for these areas of software.
+
+## Comment: Nicholas Ruan
+SAP is making the right decision if it wants to keep up with American companies such as Google, Amazon, and Microsoft. Although SAP's internal restructuring comes at such a high cost, I believe that this shift toward cloud-based computing is a necessary step to being at the forefront of technological advances.
